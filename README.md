@@ -14,5 +14,3 @@ Hi! I'm Felipe Guiot Chies<br><br>ðŸ”­ Currently improving my python skills<br>ð
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fgchies&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
