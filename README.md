@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Felipe Guiot Chies<br><br>🔭 Currently improving my python skills<br>🚗 In 2021 I developed a dashboard to democratize the access to the data of the national fleet of vehicles(a.k.a. PUP Consultoria), you may know me from that.<br>💬 Ask me about Data<br>
 
-National fleet dashboard: [Frota Nacional de Veículos](https://app.powerbi.com/view?r=eyJrIjoiZWI4ZTVhYmQtNmNhZi00ZTlmLTlmYTktMzk1YzRiNmI1NmQ5IiwidCI6IjRmZTE4YzNjLWE3NDAtNGQ3My05YWIyLTZmNzAzZWFjZDg2ZSJ9) <br>
+National fleet dashboard: [Frota Nacional de Veículos](https://chieslabs.com/frotanacional/) <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipechies) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipegchies/) 
