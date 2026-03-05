@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Felipe Guiot Chies<br><br>🔭 Currently improving my python skills<br>🚗 In 2021 I developed a dashboard to democratize the access to the data of the national fleet of vehicles(a.k.a. PUP Consultoria), you may know me from that.<br>💬 Ask me about Data<br>
+Hi! I'm Felipe Guiot Chies<br><br>🔭 Always improving my coding skills<br>🚗 In 2021 I developed a dashboard to democratize the access to the data of the national fleet of vehicles(a.k.a. PUP Consultoria), you may know me from that.<br>💬 Ask me about Data<br>
 
 National fleet dashboard: [Frota Nacional de Veículos](https://chieslabs.com/frotanacional/) <br>
 
